@@ -18,6 +18,7 @@ namespace WebdriverFramework.Forms
 
         public void InputPhoneOrEmail(String phoneOrEmail) {
             txbPhoneOrEmail.SetText(phoneOrEmail);
+
         }
 
         public void InputPassword(String password)
